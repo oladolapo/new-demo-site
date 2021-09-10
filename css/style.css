@@ -246,9 +246,17 @@ p {
   text-align: left;
   padding-left: 20px;
 }
-.subscription {
+.sub,
+.h2,
+.sample,
+.sub-img {
   float: left;
-}
-h2 {
   text-align: center;
+  padding-left: 20px 30px;
+}
+.sub-img {
+  background-repeat: no-repeat;
+  background-position: top center;
+  width: 40%;
+  height: 100vh;
 }
