@@ -203,8 +203,8 @@ h1 {
   background-color: #d9b1b3;
 }
 .spring-col {
-  height: 550px;
-  width: 620px;
+  height: 300px;
+  width: 300px;
   display: flex;
   overflow: hidden;
   background-repeat: no-repeat;
