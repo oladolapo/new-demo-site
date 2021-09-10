@@ -93,26 +93,10 @@ header {
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
+  float: left;
 }
 
-.gallery .gallery-img-1 {
-  background-image: url(../images/gallery-1.jpeg);
-}
-.gallery .gallery-img-2 {
-  background-image: url(../images/gallery-2.jpeg);
-}
-.gallery .gallery-img-3 {
-  background-image: url(../images/gallery-3.jpeg);
-}
-.gallery .gallery-img-4 {
-  background-image: url(../images/gallery-4.jpeg);
-}
-.gallery .gallery-img-5 {
-  background-image: url(../images/gallery-5.jpeg);
-}
-.gallery .gallery-img-6 {
-  background-image: url(../images/gallery-6.jpeg);
-}
+
 .coming-soon {
   background-color: #d9b1b3;
   color: white;
