@@ -264,6 +264,6 @@ h2 {
   font-weight: 100px;
   font-style: italic;
   text-transform: none;
-  font-family: "Playfair Display", serif !important;
+  font-family: "Playfair Display", serif;
   margin: 20px 0 0;
 }
