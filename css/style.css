@@ -232,15 +232,34 @@ h1 {
   padding: 30px 30px 25px;
   float: left;
 }
-h2 {
-  text-align: left;
-  padding-left: 20px;
-  font-style: initial;
+.product {
+  padding: 20px 25px;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+.product img {
+  padding: 5px;
 }
 
-h3 {
+.sample-product {
   text-align: left;
-  padding-left: 20px;
+}
+.sample-product h3 {
+  padding-bottom: 20px;
+}
+.sample-product h6 {
+  font-size: 12px;
+}
+.sample-product input {
+  border-radius: 100px;
+  background-color: black;
+  color: white;
+  font-size: 10px;
+  text-align: center;
+  width: 150px;
+  border: none;
+  padding: 5px 0;
 }
 p {
   text-align: left;
