@@ -278,8 +278,9 @@ p {
 
 .subscribe h2 {
   padding: 15px 0px 30px;
-  font-family: playfair, serif !important;
   font-size: 60px;
+  font-family: "Playfair Display", serif !important;
+  font-style: italic;
 }
 .subs-input {
   padding: 20px 0 10px;
