@@ -265,24 +265,45 @@ p {
   text-align: left;
   padding-left: 20px;
 }
-.sub,
-.h2,
-.sample,
-.sub-img {
-  float: left;
+.subscribe {
+  justify-content: center;
+  align-items: center;
   text-align: center;
-  padding-left: 20px 30px;
 }
-.sub-img {
-  background-repeat: no-repeat;
-  background-position: top center;
-  width: 40%;
-  height: 100vh;
-h2 {
-  text-align: center;
-  font-weight: 100px;
-  font-style: italic;
-  text-transform: none;
-  font-family: "Playfair Display", serif;
-  margin: 20px 0 0;
+.subscribe hr {
+  width: 85%;
+  border: 4px solid rgb(255, 136, 0);
+  margin: 20px auto;
+}
+
+.subscribe h2 {
+  padding: 15px 0px 30px;
+  font-family: playfair, serif !important;
+  font-size: 60px;
+}
+.subs-input {
+  padding: 20px 0 10px;
+}
+.subscribe input {
+  width: 250px;
+  margin: 5px;
+}
+.subscribe input[type="button"] {
+  border-radius: 100px;
+  background-color: black;
+  color: white;
+  font-size: 12px;
+  width: 100px;
+  padding: 5px;
+}
+.subscribe h5 {
+  margin: auto;
+  width: 50%;
+  padding: 15px;
+  font-size: 12px;
+}
+
+.subscribe-side img {
+  width: 20px;
+  height: 20px;
 }
